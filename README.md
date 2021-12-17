@@ -10,4 +10,5 @@ Here is a growing collection of resources and helpful commands to know wheh work
 - [git add](./commands/Add.md)
 - [git comit](./commands/Commit.md)
 - [git remote](./commands/Remote.md)
-- [got push](./commands/Push.md)
+- [git push](./commands/Push.md)
+- [git pull](./commands/Pull.md)
